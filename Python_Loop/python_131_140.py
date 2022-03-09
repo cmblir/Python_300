@@ -45,4 +45,3 @@ for i in range(10, 40, 10):
 # 다음 코드를 for문으로 작성하라.
 for i in range(1, 5):
     print("-------")
-
